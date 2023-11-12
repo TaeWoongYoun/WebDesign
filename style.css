@@ -128,3 +128,9 @@ nav > ul > li > ul > li{
 input#modal[type=checkbox]:checked~.modalBox{
     display: none;
 }
+
+.imgSlide{
+    width: 1440px;
+    height: 400px;
+    background-color: black;
+}
