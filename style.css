@@ -81,7 +81,7 @@ nav > ul > li > ul > li{
 }
 
 .tran:hover ~ .subMenu{
-    height: 150px;
+    height: 150px;  
 }
 
 .modalBtn{
